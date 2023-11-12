@@ -1,0 +1,103 @@
+
+.center-text{
+text-align: center;
+}
+.center-text{
+  background-image: url(download.jpg);
+  background-repeat: no-repeat;
+  height: 80vh;
+  background-position: left top;
+  background-size: 300px;
+}
+body{
+  background-image: url(e402dd58d4244a48ecceb0290226b573.jpg);
+  background-repeat: no-repeat;
+  height: 40vh;
+  background-position: right top;
+  background-size: 300px;
+  
+}
+.book{
+  background-position:left;
+  height: 46vh;
+  padding-bottom: 2%;
+  background-size: auto;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  border: 10px solid rgb(221, 221, 19) ;
+}
+.pen{
+  background-position:right;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  background-size: auto;
+  border: 30px solid black;
+}
+.pencil{
+  background-position:left;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 6%;
+  padding-top: 10%;
+  background-size: auto;
+  border: 5px solid black;
+}
+.led{
+  background-position:right;
+  height: 66vh;
+  padding-left: 3%;
+  padding-right:2% ;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  background-size: auto;
+  border: 10px solid yellowgreen;
+}
+.background{
+  padding: 0.5% 0.5% 0.5% 0.5%;
+  border: 2px solid rgb(158, 10, 10);
+}
+.mouse{
+  background-position:left;
+  height: 70vh;
+  padding-left: 3%;
+  padding-right:2% ;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  background-size: auto;
+  border: 10px solid yellow;
+}
+.key{
+  background-position:right ;
+  padding-left: 0%;
+  padding-right:0% ;
+  padding-bottom: 4%;
+  padding-top: 4%;
+  background-size: auto;
+  border: 60px solid black;
+}
+.board{
+  background-position:left ;
+  padding-left: 1%;
+  padding-right:1% ;
+  padding-bottom: 4%;
+  padding-top: 4%;
+  background-size: auto;
+  border: 60px solid black;
+}
+.button{
+  background-position:right; 
+  height: 70vh;
+  padding-left: 1%;
+  padding-right:1% ;
+  padding-bottom:1%;
+  padding-top: 1%;
+  background-size: auto;
+  border: 5px solid yellow;;
+}
+.new{
+  text-align: center;
+}
